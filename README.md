@@ -156,11 +156,11 @@ These are the scripting languages and environment used in this module
 
 #### PHP 
 
-This application is written in Java.
+This application is written in PHP.
 
 	-> [PHP]  ( https://github.com/php/php-src )
-	-> [APACHE]  ( https://github.com/topics/java-servlets )
-	-> [Ms Access] ( https://github.com/topics/ms-access )
+	-> [APACHE]  ( https://github.com/apache )
+	-> [MYSQL] ( https://github.com/mysql )
 
 The application uses multi threading in order to process events asynchronously.
 	
@@ -174,16 +174,12 @@ First ensure your system correctly setting up with required softwares
 
 These are the some third party packages used in this project
 
-	Java 7   : https://www.oracle.com/in/java/technologies/javase/javase7-archive-downloads.html   
-	Tomcat 7 : https://tomcat.apache.org/download-70.cgi
-
-These are the some third party packages used for JDBC
-
-	JDBC(Driver) : C:\Windows\System32\odbcad32
+	PHP 8   : https://www.php.net/downloads.php   
+	Apache  : https://httpd.apache.org/download.cgi
 
 IDE used in our project 
 
-	Eclipse : https://www.eclipse.org/downloads/
+	Visual studio Code : https://code.visualstudio.com/download
 
 
 
