@@ -1,27 +1,27 @@
-These are the some third party packages used in this project
+
 # E-Medical Portal 
 Features :
 	
 	-> It will make the whole management process easy to manage and operate with zero redundancies.
  	-> It also aims at going towards cashless transactions.
 	-> This project will be a web based system with a user friendly interface .
-    -> Easy to maintain database.
+        -> Easy to maintain database.
 
 ## Requirements 
 
 Hardware Requirements :
 	
-	-> Proccessor 		        - Pentium 4 or Later
-	-> Memory    		        - 2 GB minimum - 4 GB maximum
-	-> Screen Resolution 	    - 1280x1024 or larger
-	-> Application Windows Size - 1024x680 or larger
+	-> Proccessor 		     : Pentium 4 or Later
+	-> Memory    		     : 2 GB minimum - 4 GB maximum
+	-> Screen Resolution 	     : 1280x1024 or larger
+	-> Application Windows Size  : 1024x680 or larger
 
 Software Requirements :
 
-	-> Operating System	   : Windows 10
-	-> Environment		   : PHP
+	-> Operating System    : Windows 10
+	-> Environment	       : PHP
 	-> Scripting language  : HTML, JavaScript, CSS
-	-> Database		       : MYSQL
+	-> Database	       : MYSQL
 
 ## How it works
 
@@ -165,7 +165,9 @@ This application is written in PHP.
 The application uses multi threading in order to process events asynchronously.
 	
 	-> Session was created when the user login to the application.
+	
 	-> Session will notify the each process and store it temporarly.
+	
 	-> When the user log out the session, Session details will be vanished. 
 
 ## Installation, Configuration and Running 
