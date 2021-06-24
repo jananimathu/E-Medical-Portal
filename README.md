@@ -4,9 +4,9 @@ Features :
 	
 	-> It will make the whole management process easy to manage and operate with zero redundancies.
  	-> It also aims at going towards cashless transactions.
+	-> Easy to maintain database.
 	-> This project will be a web based system with a user friendly interface .
-        -> Easy to maintain database.
-
+       
 ## Requirements 
 
 Hardware Requirements :
