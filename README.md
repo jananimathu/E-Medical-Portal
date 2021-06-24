@@ -3,8 +3,11 @@
 Features :
 	
 	-> It will make the whole management process easy to manage and operate with zero redundancies.
- 	-> It also aims at going towards cashless transactions.
+ 	
+	-> It also aims at going towards cashless transactions.
+	
 	-> Easy to maintain database.
+	
 	-> This project will be a web based system with a user friendly interface .
        
 ## Requirements 
@@ -12,15 +15,21 @@ Features :
 Hardware Requirements :
 	
 	-> Proccessor 		     : Pentium 4 or Later
+	
 	-> Memory    		     : 2 GB minimum - 4 GB maximum
+	
 	-> Screen Resolution 	     : 1280x1024 or larger
+	
 	-> Application Windows Size  : 1024x680 or larger
 
 Software Requirements :
 
 	-> Operating System    : Windows 10
+	
 	-> Environment	       : PHP
+	
 	-> Scripting language  : HTML, JavaScript, CSS
+	
 	-> Database	       : MYSQL
 
 ## How it works
