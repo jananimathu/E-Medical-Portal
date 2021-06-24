@@ -5,7 +5,7 @@ Features :
 	-> It will make the whole management process easy to manage and operate with zero redundancies.
  	-> It also aims at going towards cashless transactions.
 	-> This project will be a web based system with a user friendly interface .
-        -> Easy to maintain database.
+      -> Easy to maintain database.
 
 ## Requirements 
 
@@ -158,9 +158,9 @@ These are the scripting languages and environment used in this module
 
 This application is written in PHP.
 
-	-> [PHP]  ( https://github.com/php/php-src )
-	-> [APACHE]  ( https://github.com/apache )
-	-> [MYSQL] ( https://github.com/mysql )
+	 . PHP  ( https://github.com/php/php-src )
+	 . APACHE  ( https://github.com/apache )
+	 . [MYSQL] ( https://github.com/mysql )
 
 The application uses multi threading in order to process events asynchronously.
 	
